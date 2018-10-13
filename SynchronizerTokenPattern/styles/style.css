@@ -1,0 +1,13 @@
+.col-center-block {
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-image: url("res/pizza_wallpaper_1.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

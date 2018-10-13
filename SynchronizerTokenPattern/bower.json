@@ -1,0 +1,17 @@
+{
+  "name": "SynchronizerTokenPattern",
+  "homepage": "https://github.com/jjcperera/CSRFProtectionForWebApps",
+  "authors": [
+    "jjcperera <jccandro@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "install": {
+    "path": "/libs"
+  },
+  "dependencies": {
+    "bootstrap-css": "^3.3.7",
+    "jquery": "^3.3.1"
+  }
+}
