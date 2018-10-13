@@ -1,4 +1,4 @@
-# CSRFProtectionForWebApps
+# CSRF Protection For PHP WebApps
 This repository demonstrates how to protect your PHP web applications from Cross-site Request Forgery.
 
 Install xampp or wamp to your computer.
