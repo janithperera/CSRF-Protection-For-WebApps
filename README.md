@@ -13,4 +13,6 @@ To access the Double Submit Pattern Cookies example access the url:http://localh
 This example explains the way to use the Synchronizer Token Pattern to secure your PHP web application from CSRF.
 To access the Synchronizer Token Pattern example access the url:http://localhost:{port}/SynchronizerTokenPattern.
 
+You can follow my blog post if you want to develop these solutions from the scratch.
+https://jccreations-acc.blogspot.com/2018/10/how-to-protect-your-web-application.html
 port="Whatever the port your apache server is running."
